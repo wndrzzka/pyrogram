@@ -54,7 +54,7 @@ If you'd like to support Pyrogram, you can consider:
 
 ### Key Features
 
-- **Ready**: Install Pyrogram with pip and start building your applications right away.
+- **Ready**: Install Pyrogram with pip and start building your applications right away..
 - **Easy**: Makes the Telegram API simple and intuitive, while still allowing advanced usages.
 - **Elegant**: Low-level details are abstracted and re-presented in a more convenient way.
 - **Fast**: Boosted up by [TgCrypto](https://github.com/pyrogram/tgcrypto), a high-performance cryptography library written in C.  
