@@ -18,6 +18,7 @@
 
 from .animation import Animation
 from .audio import Audio
+from .available_effect import AvailableEffect
 from .contact import Contact
 from .dice import Dice
 from .document import Document
